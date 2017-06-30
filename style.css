@@ -1,0 +1,230 @@
+*
+{
+	margin : 0px;
+	padding: 0px;
+}
+body
+{
+	font-size: 120%;
+	background : #F8F8FF;
+}
+.header
+{
+	width: 30%;
+	margin:50px auto 0px;
+	color : white;
+	background:#004d00;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+.header1
+{
+	width: 30%;
+	margin:50px auto 0px;
+	color : white;
+	background:#800000;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+.content
+{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border : 1px solid #B0C4DE ;
+	background : white;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group
+{
+	margin: 10px 0px 10px 0px;
+}
+.input-group label
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group input
+{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border : 1px solid gray;
+}
+.btn
+{
+	padding: 10px;
+	font-size:15px;
+	color: white;
+	background : #004d00;
+	border : none;
+	border-radius: 5px;
+}
+
+.btnlog
+{
+	padding: 10px;
+	font-size:15px;
+	color: white;
+	background : #800000;
+	border : none;
+	border-radius: 5px;
+}
+
+.error
+{
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	color: #a94442;
+	background:#f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
+.error3
+{
+	margin-left: 600px;
+	border: 1px solid #a94442;
+	min-width: 50px;
+	height: 50px;
+
+}
+
+
+.success
+{
+	color: :#3c763d;
+	background:#dff0d8;
+	border : 1px solid #3c763d;
+	margin-bottom : 20px; 
+}
+
+.tisto
+{
+                 
+                 margin-top: 20px;
+                 margin-left: 600px;
+                 width: 100px;
+                 min-height: 57px;
+                 border-radius: 5px;
+                 margin-bottom: 40px;
+                 background-color: #b3e6ff;
+                 text-align: center;
+                 font-family: 'Trade Winds', cursive;
+                 font-size: 20px;
+                 
+              
+}
+
+ 
+ .codeinp
+ {
+ 	margin-left: 200px;
+ 	resize: vertical;
+    overflow: auto;
+    float: left;
+ }
+ 
+ .codeinp label
+ {
+ 	margin-top: 10px;
+ }
+ .btn1
+ {
+	padding: 10px;
+	font-size:15px;
+	color: white;
+	background : green;
+	border : none;
+	margin-left: 150px;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-right: 10px;
+}
+
+.btn2
+ {
+	padding: 10px;
+	font-size:15px;
+	color: white;
+	background : #5F9EA0;
+	border : none;
+	margin-left: 0px;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-right: 10px;
+}
+
+.btn11
+ {
+	padding: 10px;
+	font-size:15px;
+	color: white;
+	background : green;
+	border : none;
+	margin-left: 600px;
+	border-radius: 5px;
+	margin-top: 40px;
+	margin-right: 10px;
+}
+
+ .success
+ {
+ 	color: #3c763d;
+ 	background: #dff0d8;
+ 	border: 1px solid #3c763d;
+ 	margin-bottom: 20px;
+ }
+ .box
+ {
+ 	margin-left: 450px;
+ 	margin-top: 100px;
+ 	width: 400px;
+ 	min-height: 60px;
+ 	border: 1px solid #B0C4DE ;
+ 	padding: 20px;
+ }
+ .info
+ {
+ 	margin-left: 100px;
+ 	margin-top: 100px;
+ 	min-width: 200px;
+ 	font-family: 'Medula One', cursive;
+ 	font-size: 30px;
+	padding: 20px;
+ 	float: left;
+ }
+ .top
+		   {
+               border: none;
+               margin: 0px 20px 0px 20px
+               height: 130px;
+               background-color: #00334d;
+               text-align: center;
+               font-size: 60px;
+               color: white;
+
+		   }
+	
+
+
+
+
+
+
+
+
+
+		   
