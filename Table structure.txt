@@ -7,6 +7,6 @@ PRIMARY KEY (id)
 );
 CREATE TABLE codebin(
 idc INT NOT NULL,
-code LONGINT NOT NULL,
+code LONGTEXT NOT NULL,
 PRIMARY KEY (idc)
 );
